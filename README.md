@@ -7,7 +7,7 @@ HUANANZHI_华南金牌_H610M_PLUS_12100F_RX550_Lexa_EFI_Hackintosh
 | Component        | Specifications                         |
 | ---------------- | -------------------------------------- |
 | CPU              | Intel® Core™ i3-12100F                 |
-| RAM              | Kingspec 24GB DDR4 3600MHz             |
+| RAM              | Kingbank 24GB DDR4 3600MHz             |
 | GPU              | Dell AMD Radeon™ RX 550 Pro  Lexa      |
 | LAN              | Realtek RTL8111H                       |
 | WiFi & Bluetooth | Intel® 3165NGW                         |
