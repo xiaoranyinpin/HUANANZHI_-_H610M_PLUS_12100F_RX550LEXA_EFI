@@ -38,6 +38,8 @@ Wake on Lan
 
 USB定制过，睡眠唤醒BIOS设置不了USB唤醒，睡眠唤醒方式为按开关唤醒。
 
+第二版本更新了带RX5300的免驱声卡的CONFIG配置文件，以及升级了OC版本。
+
 ## Credits
 
 - [Apple](https://apple.com) for macOS.
